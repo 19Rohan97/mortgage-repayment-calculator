@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/mortgage-repayment-calculator)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/19Rohan97/mortgage-repayment-calculator)
+- Live Site URL: [Live Demo](https://19rohan97.github.io/mortgage-repayment-calculator/)
 
 ## My process
 
