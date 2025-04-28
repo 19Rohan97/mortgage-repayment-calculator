@@ -100,8 +100,8 @@ In future projects, I'd like to focus on:
 
 ## Author
 
-- Website - [Your Name](https://www.rohantgeorge.ca)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/19Rohan97)
+- Website - [Rohan T George](https://www.rohantgeorge.ca)
+- Frontend Mentor - [@rohantgeorge](https://www.frontendmentor.io/profile/19Rohan97)
 
 ## Acknowledgments
 
